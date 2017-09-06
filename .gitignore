@@ -1,0 +1,7 @@
+# Typescript
+#
+lib/
+
+# Jest
+#
+.jest/
