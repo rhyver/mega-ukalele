@@ -5,3 +5,7 @@ lib/
 # Jest
 #
 .jest/
+
+# Node Modules
+#
+node_modules/
